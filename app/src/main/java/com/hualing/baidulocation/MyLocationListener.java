@@ -2,7 +2,6 @@ package com.hualing.baidulocation;
 
 import android.util.Log;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.baidu.location.BDAbstractLocationListener;
 import com.baidu.location.BDLocation;
